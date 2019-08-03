@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Helvetica Neue", Helvetica, Geneva, sans-serif;
+}
+
+.App{
+  max-width: 1170px;
+  margin: 0 auto;
+  padding: 0 15px;
+}
+
+.employee{
+  border: 1px solid #ebebeb;
+  padding: 15px;
+  width: 29.5%;
+  float: left;
+  margin: 5px;
+  border-radius: 4px;
+  background: #f5f5f5;
+  display: block;
+}
